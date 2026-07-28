@@ -1,0 +1,5 @@
+opencv-python
+deepface
+tf-keras
+numpy
+mediapipe==0.10.14
