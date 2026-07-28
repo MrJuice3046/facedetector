@@ -1,13 +1,3 @@
-# Emotion HUD App 🤖
-
-A real-time, sci-fi inspired AI emotion detection heads-up display (HUD) that runs directly on your webcam! 
-
-## Features
-- **Live Facial Tracking**: Smoothly tracks up to 5 faces simultaneously using MediaPipe.
-- **Deep AI Emotion Analysis**: Uses DeepFace to classify 13 distinct core and complex emotions (Happy, Sad, Angry, Excited, Frustrated, Panicked, Bored, etc.).
-- **Temporal Smoothing**: Applies a rolling-average sliding window to stabilize AI predictions and eliminate jitter.
-- **Auto-Alignment**: Surgically crops and aligns faces horizontally to ensure extremely high emotion detection accuracy.
-- **Ayanakoji Mode**: Put your hand over your face to instantly trigger the emotionless "Ayanakoji" override mode!
 
 ## Installation
 
